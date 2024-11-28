@@ -1,0 +1,14 @@
+D:\Lab_2ooap\Lab_2ooap\bin\Debug\net8.0\Lab_2ooap.exe
+D:\Lab_2ooap\Lab_2ooap\bin\Debug\net8.0\Lab_2ooap.deps.json
+D:\Lab_2ooap\Lab_2ooap\bin\Debug\net8.0\Lab_2ooap.runtimeconfig.json
+D:\Lab_2ooap\Lab_2ooap\bin\Debug\net8.0\Lab_2ooap.dll
+D:\Lab_2ooap\Lab_2ooap\bin\Debug\net8.0\Lab_2ooap.pdb
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\Lab_2ooap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\Lab_2ooap.AssemblyInfoInputs.cache
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\Lab_2ooap.AssemblyInfo.cs
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\Lab_2ooap.csproj.CoreCompileInputs.cache
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\Lab_2ooap.dll
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\refint\Lab_2ooap.dll
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\Lab_2ooap.pdb
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\Lab_2ooap.genruntimeconfig.cache
+D:\Lab_2ooap\Lab_2ooap\obj\Debug\net8.0\ref\Lab_2ooap.dll
